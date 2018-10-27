@@ -1013,4 +1013,10 @@ var hacktobermap = [
     latitude: 38.904863,
     longitude: -77.03402240000003
   }
+  {
+    name: "mskiser",
+    location: "United States",
+    latitude: 37.090240,
+    longitude: -95.712891
+  },
 ];
